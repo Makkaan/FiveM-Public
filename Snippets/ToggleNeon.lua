@@ -1,7 +1,6 @@
 Simple neon on / off toggle.
 
 Add to vehicle menu.
-Support will not be provided.
 
 // 
 Example conf:
